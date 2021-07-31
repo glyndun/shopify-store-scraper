@@ -1,0 +1,1 @@
+{"version":3,"file":"692.js","mappings":"4GASA,UATc,WACV,OACI,+BACI","sources":["webpack:///./src/pages/Index.jsx"],"sourcesContent":["const Index = () => {\n    return (\n        <>\n            <p>Index Page</p>\n        </>\n    )\n};\n\n\nexport default Index;\n"],"names":[],"sourceRoot":""}

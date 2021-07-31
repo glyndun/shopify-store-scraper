@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[918],{918:function(e,n,r){r.r(n);var u=r(893);n.default=function(){return(0,u.jsx)(u.Fragment,{children:(0,u.jsx)("p",{children:"Product Page"})})}}}]);
+//# sourceMappingURL=918.js.map
